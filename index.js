@@ -15,6 +15,21 @@ WhatCity["Tunisia"] = ["Kairouan", "Hammamet", "Sfax", "Dougga", "Sousse"];
 WhatCity["Mauritania"] = ["Nouakchott", "Nouadhibou", "Kiffa"];
 WhatCity["Iraq"] = ["Baghdad", "Mosul", "Basra", "Nasiriyah", "Hillah"];
 WhatCity["Qatar"] = ["Doha", "Al Rayyan", "Umm Salal Muhammad", "Al Wakrah"];
+WhatCity["Italy"] = ["Rome", "Venice", "Amalfi Coast", "Florence"];
+WhatCity["Spain"] = ["Barcelona", "Seville", "Madrid", "Granada"];
+WhatCity["Germany"] = ["Berlin", "Munich", "Frankfurt", "Hamburg"];
+WhatCity["United Kingdom"] = ["London", "Manchester", "Edinburgh", "Roman-Era Bath", "Royal Windsor", "The Magical Lake District", "Liverpool"];
+WhatCity["Greece"] = ["Athens", "Thessaloniki", "Chania", "Rhodes Town", "Patras"];
+WhatCity["France"] = ["Paris", "Nice", "Lyon", "Bordeaux", "Marseilles"];
+WhatCity["Poland"] = ["Krakow", "Warsaw", "Tatra Mountains", "Wroclaw", "Ojcow"];
+WhatCity["Netherlands"] = ["Amsterdam", "Utrecht", "Maastricht", "Delft", "Rotterdam"];
+WhatCity["Belgium"] = ["Antwerp", "Brussels", "Ghent", "Namur", "Ypres"];
+WhatCity["Portugal"] = ["Lisbon", "Sintra", "Porto", "Évora", "Óbidos"];
+WhatCity["Sweden"] = ["Stockholm", "Gothenburg", "Karlskrona", "Malmö", "Linköping"];
+WhatCity["Norway"] = ["Oslo", "Bergen", "Trondheim", "Hamar", "Haugesund"];
+WhatCity["Ireland"] = ["Dublin", "Galway", "Belfast", "Limerick", "Athlone"];
+WhatCity["Sweden"] = ["Monte Carlo", "La Condamine", "La Turbie", "Gorbio", "Saint-Jean-Cap-Ferrat"];
+WhatCity["Luxembourg"] = ["Clervaux", "Diekirch", "Larochette", "Remich", "Wiltz"];
 
 function RecommendDestination(country, city){
     if(city === undefined && WhatCity[country] !== undefined ){
@@ -26,4 +41,4 @@ function RecommendDestination(country, city){
     }
 }
 
-module.export = RecommendDestination
+module.export = {RecommendDestination}
