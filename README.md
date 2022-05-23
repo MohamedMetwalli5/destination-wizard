@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/badge/License-MIT%20-red.svg)
 
-# destination-wizard
+# destination-wizard 🧙‍♂️
 
 ## About
 It is a simple npm package that recommends destinations based on the desired country and city.
