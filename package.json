@@ -1,0 +1,23 @@
+{
+  "name": "destination-wizard",
+  "version": "1.0.0",
+  "description": "It recommends destinations based on the desired country and city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedMetwalli5/destination-wizard.git"
+  },
+  "keywords": [
+    "destination",
+    "travel"
+  ],
+  "author": "Mohamed Metwalli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohamedMetwalli5/destination-wizard/issues"
+  },
+  "homepage": "https://github.com/MohamedMetwalli5/destination-wizard#readme"
+}
