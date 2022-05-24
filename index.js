@@ -84,7 +84,5 @@ function RecommendPlaceInTheCity(country, city){
 }
 
 
-console.log(RecommendCity("Egypt"))
-
 module.export = {RecommendCity, RecommendPlaceInTheCity}
 
