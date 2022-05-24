@@ -1,4 +1,4 @@
-[![NPM version](http://img.shields.io/npm/v/npm-expansions.svg?style=flat-square)](https://www.npmjs.org/package/npm-expansions)
+![Version](https://img.shields.io/badge/Version-1.2.0-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT%20-red.svg)
 
 # destination-wizard 🧙‍♂️
