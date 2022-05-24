@@ -5,7 +5,6 @@
 
 ## About
 It is a simple npm package that recommends destinations based on the desired country and city.
-![image](https://user-images.githubusercontent.com/58489322/169884133-8a8d21b3-d60f-436f-b41e-bbffa5492971.png)
 
 ## How to install
 Run this command in your terminal : `npm i destination-wizard`
