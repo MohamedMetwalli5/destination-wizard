@@ -1,6 +1,5 @@
 var WhatCity = {}
 
-//Africa
 WhatCity["Egypt"] = ["Alexandria", "Sharm el-Sheikh", "Hurghada", "Cairo", "Aswan"];
 WhatCity["Algeria"] = ["Algiers", "Oran", "Constantine", "Batna", "Djelfa"];
 WhatCity["Morocco"] = ["Asilah", "Larache", "Tinghir", "El Jadida", "Chefchaouen"];
@@ -15,7 +14,7 @@ WhatCity["Oman"] = ["Muscat", "Salalah", "Seeb", "Sohar", "Nizwa"];
 WhatCity["Tunisia"] = ["Kairouan", "Hammamet", "Sfax", "Dougga", "Sousse"];
 WhatCity["Mauritania"] = ["Nouakchott", "Nouadhibou", "Kiffa"];
 
-//Europe
+
 WhatCity["Iraq"] = ["Baghdad", "Mosul", "Basra", "Nasiriyah", "Hillah"];
 WhatCity["Qatar"] = ["Doha", "Al Rayyan", "Umm Salal Muhammad", "Al Wakrah"];
 WhatCity["Italy"] = ["Rome", "Venice", "Amalfi Coast", "Florence"];
@@ -34,7 +33,7 @@ WhatCity["Ireland"] = ["Dublin", "Galway", "Belfast", "Limerick", "Athlone"];
 WhatCity["Sweden"] = ["Monte Carlo", "La Condamine", "La Turbie", "Gorbio", "Saint-Jean-Cap-Ferrat"];
 WhatCity["Luxembourg"] = ["Clervaux", "Diekirch", "Larochette", "Remich", "Wiltz"];
 
-// Asia
+
 WhatCity["China"] = ["Guilin", "Chengdu", "Beijing", "Xi'an", "Lhasa", "Shanghai"];
 WhatCity["India"] = ["Agra", "Goa", "Manali", "Mumbai", "Jaipur"];
 WhatCity["Indonesia"] = ["Yogyakarta", "Ubud", "Kuta", "Jakarta", "Bandung"];
@@ -55,7 +54,7 @@ WhatCity["Cyprus"] = ["Famagusta", "Nicosia", "Protaras", "Kyrenia", "Larnaca"];
 WhatCity["Maldives"] = ["Male", "Fuvahmulah", "Hulhumale", "Maafushi Island"];
 WhatCity["Brunei"] = ["Gadong", "Luagan Lalak", "Kampong Ayer", "Kota Batu", "Serasa"];
 
-// South America
+
 WhatCity["Brazil"] = ["Rio de Janeiro", "São Paulo", "Brasília", "Natal", "Fortaleza"];
 WhatCity["Colombia"] = ["Cartagena", "Bogota", "Medellin", "Cali", "Santa Marta"];
 WhatCity["Argentina"] = ["Buenos Aires", "Mendoza", "Ushuaia", "Córdoba", "Rosario"];
