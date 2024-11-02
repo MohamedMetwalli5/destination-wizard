@@ -1,6 +1,6 @@
 {
   "name": "destination-wizard",
-  "version": "2.1.0",
+  "version": "2.1.3",
   "description": "A simple npm package that recommends travel destinations along with local food and drink options based on the specified country and city.",
   "main": "index.js",
   "scripts": {
