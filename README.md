@@ -4,7 +4,7 @@
 # destination-wizard 🧙‍♂️
 
 ## About
-`destination-wizard` is a simple npm package that recommends destinations based on the desired country and city. It also provides local cuisine recommendations, including halal drink and food options.
+`destination-wizard` is a simple npm package that recommends destinations based on the desired country. It also provides local cuisine recommendations, including halal drinks and food options.
 
 ## How to Install
 Run this command in your terminal to install the package:
