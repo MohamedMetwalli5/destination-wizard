@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/Version-2.1.2-blue.svg)
+![Version](https://img.shields.io/badge/Version-2.1.4-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT%20-red.svg)
 
 # destination-wizard 🧙‍♂️
