@@ -1,7 +1,7 @@
 {
   "name": "destination-wizard",
-  "version": "2.0.0",
-  "description": "It recommends destinations based on the desired country and city",
+  "version": "2.1.0",
+  "description": "A simple npm package that recommends travel destinations along with local food and drink options based on the specified country and city.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,11 @@
   },
   "keywords": [
     "destination",
-    "travel"
+    "travel",
+    "food",
+    "drink",
+    "recommendation",
+    "cuisine"
   ],
   "author": "Mohamed Metwalli",
   "license": "MIT",
